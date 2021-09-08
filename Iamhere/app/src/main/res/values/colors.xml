@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color> //tlo
+    <color name="colorPrimaryDark">#483838</color> //kolor czcionki theme
+    <color name="colorAccent">#A02C2C</color> //kolor btn w dialog
+    <color name="colorFontList">#B5B2B2</color> //czcionka
+    <color name="colorFontList2">#483838</color> //czcionka
+</resources>
